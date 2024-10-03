@@ -18,8 +18,8 @@ Você pode acessá-lo [aqui](https://colab.research.google.com/drive/1M_aAXWQcgO
 
 <h2 id="technologies">Tecnologias utilizadas</h2>
 
-- **PYTHON:** Linguagem de programação
-- **GOOGLE COLAB:** IDE
+- **Python:** Linguagem de programação
+- **Google Colab:** IDE
 - **Excel:** Base de dados
 
 <h2 id="contribute">📫 Contribuição</h2>
