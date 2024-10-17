@@ -18,7 +18,7 @@
 
 O código atualizado realiza uma verificação para garantir que os valores das notas dos juízes estão no intervalo correto (0 a 1). Caso algum valor esteja fora desse intervalo, é levantado um erro, informando qual coluna contém o valor inadequado. Após a correção, são gerados gráficos que mostram a classificação final por manobra, dificuldade e skatista. Também é calculada a correlação entre as notas dos juízes e a classificação final para entender como essas variáveis estão relacionadas.
 
-Você pode acessá-lo [aqui](https://colab.research.google.com/drive/1M_aAXWQcgOmT5G_eYUqj_T5ksr09ppR2?usp=sharing)
+Você pode acessá-lo [aqui](https://colab.research.google.com/drive/1nj6tP9sM3uTPqXd-Xtwc4d7o61uYVXqj)
 
 <h2 id="technologies">Tecnologias utilizadas</h2>
 
@@ -44,4 +44,4 @@ Irei rever a sua solicitação de pull. Participe da discussão e faça as alter
 
 <h3 id="links">Links Úteis</h3>
 
-- [Projeto](https://colab.research.google.com/drive/1M_aAXWQcgOmT5G_eYUqj_T5ksr09ppR2?usp=sharing)
+- [Projeto](https://colab.research.google.com/drive/1nj6tP9sM3uTPqXd-Xtwc4d7o61uYVXqj)
