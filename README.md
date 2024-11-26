@@ -14,6 +14,10 @@
  <a href="#links">Links úteis</a> 
 </p>
 
+<p align="center">
+    <img src="img/comparacaoModelos.png" alt="Comparação dos modelos" width="400px">
+</p>
+
 <h2 id="about">📌 Sobre</h2>
 
 O código atualizado realiza uma verificação para garantir que os valores das notas dos juízes estão no intervalo correto (0 a 1). Caso algum valor esteja fora desse intervalo, é levantado um erro, informando qual coluna contém o valor inadequado. Após a correção, são gerados gráficos que mostram a classificação final por manobra, dificuldade e skatista. Também é calculada a correlação entre as notas dos juízes e a classificação final para entender como essas variáveis estão relacionadas.
